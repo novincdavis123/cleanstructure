@@ -1,5 +1,5 @@
-import 'package:cleanstructure/features/post/domain/post.dart';
-import 'package:cleanstructure/features/post/domain/post_repository.dart';
+import 'package:cleanstructure/boilerplate/features/post/domain/post.dart';
+import 'package:cleanstructure/boilerplate/features/post/domain/post_repository.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import '../data/post_remote_datasource.dart';
 import '../data/post_repository_impl.dart';

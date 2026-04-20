@@ -1,4 +1,4 @@
-import 'package:cleanstructure/features/post/domain/post.dart';
+import 'package:cleanstructure/boilerplate/features/post/domain/post.dart';
 
 abstract class PostRepository {
   Future<List<Post>> getPosts();

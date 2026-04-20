@@ -1,6 +1,6 @@
+import 'package:cleanstructure/boilerplate/features/post/presentation/post_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'features/post/presentation/post_page.dart';
 
 void main() {
   runApp(const ProviderScope(child: MyApp()));

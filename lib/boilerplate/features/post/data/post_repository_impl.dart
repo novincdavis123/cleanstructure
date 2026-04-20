@@ -1,5 +1,6 @@
-import 'package:cleanstructure/features/post/domain/post.dart';
-import 'package:cleanstructure/features/post/domain/post_repository.dart';
+import 'package:cleanstructure/boilerplate/features/post/domain/post.dart';
+import 'package:cleanstructure/boilerplate/features/post/domain/post_repository.dart';
+
 import 'post_model.dart';
 import 'post_remote_datasource.dart';
 

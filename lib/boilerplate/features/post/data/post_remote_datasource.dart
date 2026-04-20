@@ -1,8 +1,6 @@
 import 'dart:developer';
-
+import 'package:cleanstructure/boilerplate/core/network/api_client.dart';
 import 'package:flutter/material.dart';
-
-import '../../../../core/network/api_client.dart';
 import 'post_model.dart';
 import 'package:dio/dio.dart';
 

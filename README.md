@@ -18,5 +18,5 @@
 4. Connect UI
 
 ## State Management
-- Riverpod 2.x
+- Riverpod 3.x
 - AsyncNotifier
